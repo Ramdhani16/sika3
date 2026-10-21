@@ -1,10 +1,3 @@
-/* ==========================================================
-   SIKA - style.css (Bab 3)
-   Urutan: 1 Reset/Base, 2 Variables, 3 Typography, 4 Layout,
-   5 Components, 6 Forms & Tables, 7 Media Queries
-   Catatan keamanan: CSS hanya presentasi, bukan authorization.
-   Tidak ada token/credential/data sensitif di file ini.
-   ========================================================== */
 
 /* 1. Reset / Base */
 * { box-sizing: border-box; }
